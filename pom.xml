@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.ishtar</groupId>
 	<artifactId>SpringMVCWAR</artifactId>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringMVCWAR Maven Webapp</name>
 	<url>http://maven.apache.org</url>
